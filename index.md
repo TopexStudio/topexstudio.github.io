@@ -9,6 +9,7 @@
 成员列表:
  - KFACBT
  - LAGSNES
+ - Linker
 
 > 也欢迎你加入我们...
 
