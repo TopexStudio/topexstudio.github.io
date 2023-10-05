@@ -5,7 +5,7 @@
  - [Topex-Toolkit](/Topex-Toolkit/)
 
 ## 关于我们...
-我们是一个小团队，目前只有两人。  
+我们是一个小团队，目前只有三人。  
 成员列表:
  - KFACBT
  - LAGSNES
