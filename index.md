@@ -9,7 +9,7 @@
 成员列表:
  - KFACBT
  - LAGSNES
- - Linker
+ - Panda Chen
 
 > 也欢迎你加入我们...
 
